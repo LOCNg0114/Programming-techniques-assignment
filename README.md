@@ -1,4 +1,4 @@
-# bai-tap-lon-ky-thuat-lap-trinh
+# Programming-techniques-assignment
 
 ### For Mac:
 - Install `openCV3` using `brew`
